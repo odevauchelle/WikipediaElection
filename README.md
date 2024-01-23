@@ -1,4 +1,4 @@
-# WikipediaElections
+# WikipediaElection
 
 A few Python functions to download election data from Wikipedia.
 
