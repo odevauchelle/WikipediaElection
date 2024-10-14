@@ -2,6 +2,10 @@
 
 A few Python functions to download election data from Wikipedia.
 
+Here's an example of how it's used:
+
+[*Dislike of general opinion makes for tight elections*](http://dx.doi.org/10.1103/PhysRevE.109.044106), O. Devauchelle, P. Szymczak, P. Nowakowski, Physical Review E, 109, 044106, 2024, [HAL](https://hal.science/hal-04533069/document), [arXiv](https://arxiv.org/pdf/2402.12207)
+
 ## Quick example
 
 Get data from Wikipedia:

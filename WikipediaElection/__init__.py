@@ -15,6 +15,8 @@
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 #
 # Olivier Devauchelle, 2024
+#
+# Dislike of general opinion makes for tight elections, O. Devauchelle, P. Szymczak, P. Nowakowski, Physical Review E, 109, 044106, 2024
 
 """
 BrownTrack main file
